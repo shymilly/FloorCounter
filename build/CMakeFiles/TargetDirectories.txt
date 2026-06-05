@@ -1,0 +1,3 @@
+/home/shymilly/FloorCounter/build/CMakeFiles/facade_parser.dir
+/home/shymilly/FloorCounter/build/CMakeFiles/edit_cache.dir
+/home/shymilly/FloorCounter/build/CMakeFiles/rebuild_cache.dir
